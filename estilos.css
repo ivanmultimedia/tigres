@@ -1,0 +1,26 @@
+body {
+  background-color: #ff7f50;
+}
+
+h1{
+  color:#ffffff;
+  text-align:center;
+  font-size: 3rem;
+  text-decoration: underline;
+  font-family: 'Pangolin', cursive;
+}
+
+p{
+  color:#ffffff;
+  width: 80%;
+  margin:0 auto;
+  text-align:justify;
+}
+
+table{
+  margin: 5% auto;
+}
+
+img{
+  border: 2px solid #ffffff;
+}
